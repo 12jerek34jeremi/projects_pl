@@ -39,7 +39,7 @@ Aplikacja "Dukes Exercise" została napisana przez mnie przy pomocy Android Stud
 ## Symulacja protokołu RIP (Routing Information Protocol) (C++)
 Projekt map-rip to symulacja pierwszej wersji protokołu routingu RIP (Routing Information Protocoll). Protokół RIP jest, a właściwie był, używany w sieciach komputerowych przez routery do odnalezienia najlepszej drogi to innych routerów.Każdy router w sieci jest identyfikowany przez adres IP. Jednak, żeby projekt był czytelniejszy, zastąpiłem adresy IP nazwami miast, ale oprócz tego protokół działa tak samo jak RIP 1.
 * [dokładny opis projektu](https://github.com/12jerek34jeremi/map_rip_protocol/blob/main/README.md)
-* [link do video](https://drive.google.com/file/d/1wyUm6_Vz_4pqdqQw1XxXmbbhKgX2G-dE/view?usp=share_link) z opisem projektu
+* [link do video](https://drive.google.com/file/d/1v48XZgSmH-Su3g6PAoOSJAcw1wl3UKvi/view?usp=share_link) z opisem projektu
 * [repozytorium](https://github.com/12jerek34jeremi/map_rip_protocol)
 
 ![screen](img/map_rip1.png)
