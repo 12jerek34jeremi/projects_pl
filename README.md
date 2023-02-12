@@ -1,12 +1,12 @@
 # Moje projekty
 
 Cześć, nazywam się Jędrzej Chmiel, a to jest lista części moich projektów. Przy każdym projekcie znajduje się
-* link do dokładnego opisu projektu (zazwyczaj jest to link do repozytorium na githabie pliku README.md lw którym znajduje się dokładny opis projektu)
+* link do dokładnego opisu projektu (zazwyczaj jest to link do repozytorium na githabie pliku README.md w którym znajduje się dokładny opis projektu)
 * link do video z omówieniem danego projektu (jeżeli takie video istnieje)
 * link do repozytorium
 * jeden screeen
 
-Jestem studentem drugiego roku informatyki na Politechnice Warszawskiej na WEiTI (Wydział Elektroniki i Technik Informacyjnych). Szukam praktyk/stażu/pracy na wakacje. Oto [link do mojego CV](), znajduje się w nim opis moich umiejętności i dane kontaktowe do mnie.
+Jestem studentem drugiego roku informatyki na Politechnice Warszawskiej na WEiTI (Wydział Elektroniki i Technik Informacyjnych). Szukam praktyk/stażu/pracy na wakacje (2023 roku). Oto [link do mojego CV](https://drive.google.com/file/d/1d2u861Vr12w9Q92OCCFbtrSiEFWdw6lo/view?usp=share_link), znajduje się w nim opis moich umiejętności i dane kontaktowe do mnie.
 
 
 ## Projekty:
@@ -18,6 +18,7 @@ Jestem studentem drugiego roku informatyki na Politechnice Warszawskiej na WEiTI
 7. [implementacja sztucznej sieci neuronowej](#nerual-network-python-numpy) (z trenowaniem, zapisywaniem, tylko przy użyciu NumPy) 
 7. pełna implementacja [uogólnionej listy jednokierunkowej](#singly-linked-list-c)
 8. implementacja algorytmy Uczenia Maszynowego ["AdaBoost"](#ada-boost-python-numpy-pandas)
+9. [Generating Sequences of Rat Poses](#generating-sequences-of-rat-poses)
 
 </br>
 
@@ -67,7 +68,7 @@ Malwa Tea to projekt strony internetowej sklepu internetowego fikcyjnej firmy Ma
 ## League Viewer (java, Swing, Maven, SQL)
 Aplikacja League Viewer była współtworzona przeze mnie w ramach projektu z Programownia Alikacyjnego na uczelni. Aplikacja umożliwia użytkownikom przeglądanie informacji związanych z piłką nożną w różnych ligach (meczy, druży, piłkarzy) oraz dodawanie nowych informacji.
 * [dokładny opis projektu](https://github.com/12jerek34jeremi/league_viewer/blob/main/README.md)
-* [link do video](https://drive.google.com/file/d/1wyUm6_Vz_4pqdqQw1XxXmbbhKgX2G-dE/view?usp=share_link) z opisem projektu
+* [link do video](https://drive.google.com/file/d/1v48XZgSmH-Su3g6PAoOSJAcw1wl3UKvi/view?usp=share_link) z opisem projektu
 * [repozytorium](https://github.com/12jerek34jeremi/league_viewer)
 
 ![screen](img/league_viewer2.png)
@@ -98,5 +99,13 @@ Projekt AdaBoost to moja implementacja algorytmu Uczenia Maszynowego "AdaBoost".
 
 ![screen](img/adaboost2.png)
 
+---
+</br><br/>
+## Generating Sequences of Rat Poses
+Brałem udział w wydarzeniu [BrainHack Warsaw 2022](https://brainhackwarsaw.github.io/), w którym to, razem z
+innymi członkami zespołu, badaliśmy przestrzeń ukrytą algorytmu
+Normalizing Flow. Algorytm ten przy pomocy funkcji odwracalnych zamienia
+dany rozkład prawdopodobieństwa na rozkład normalny. Na koniec prezentowaliśmy nasz projekt. [link do prezentacji](https://docs.google.com/presentation/d/1G820T4yWyVaXoxoKl5m7DvrIJ4RtSjMvb2mgWAeKOYU/edit?usp=sharing)<br/>
+![screen](img/brainhack1.png)
 
 
