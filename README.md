@@ -1,7 +1,7 @@
 # Moje projekty
 
 Cześć, nazywam się Jędrzej Chmiel, a to jest lista części moich projektów. Przy każdym projekcie znajduje się
-* link do dokładnego opisu projektu (zazwyczaj jest to link do repozytorium na githabie pliku README.md w którym znajduje się dokładny opis projektu)
+* link do dokładnego opisu projektu (zazwyczaj jest to link do repozytorium na githabie do pliku README.md w którym znajduje się dokładny opis projektu)
 * link do video z omówieniem danego projektu (jeżeli takie video istnieje)
 * link do repozytorium
 * jeden screeen
@@ -56,7 +56,7 @@ Próbowałem stworzyć i wytrenować sieć neuronową zdolną do napisania włas
 ---
 <br/><br/>
 ## Malwa Tea (PHP, javascript, SQL, HTML, CSS)
-Malwa Tea to projekt strony internetowej sklepu internetowego fikcyjnej firmy Malwa Tea. Zahostowałem tą stronę na Amazon AWS, możesz kliknąc w [ten link](https://drive.google.com/file/d/1TIuaRz3wrAIUWZIIjwZIPpy4jEbDsXGx/view?usp=share_link), aby zobaczyć jak strona wygląda.
+Malwa Tea to projekt strony internetowej sklepu internetowego fikcyjnej firmy Malwa Tea. Zahostowałem tą stronę na Amazon AWS, możesz kliknąc w [ten link](http://ec2-52-87-229-246.compute-1.amazonaws.com/), aby zobaczyć jak strona wygląda.
 * [dokładny opis projektu](https://github.com/12jerek34jeremi/shop2/blob/main/README.md)
 * [link do video](https://drive.google.com/file/d/1TIuaRz3wrAIUWZIIjwZIPpy4jEbDsXGx/view?usp=share_link) z opisem projektu
 * [repozytorium](https://github.com/12jerek34jeremi/shop2)
