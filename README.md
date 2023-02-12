@@ -20,11 +20,11 @@ Jestem studentem drugiego roku informatyki na Politechnice Warszawskiej na WEiTI
 8. implementacja algorytmy Uczenia Maszynowego ["AdaBoost"](#ada-boost-python-numpy-pandas)
 9. [Generating Sequences of Rat Poses](#generating-sequences-of-rat-poses)
 
-</br>
+<br/>
 
 ---
 
-</br>
+<br/>
 
 ## Dukes Excercise (Kotlin, Android Studio)
 Aplikacja "Dukes Exercise" została napisana przez mnie przy pomocy Android Studio całkowicie w Kotlinie. Jest dostępna na [Play Store (link)](https://play.google.com/store/apps/details?id=zahenta.dukesexercise). Aplikacja służy do trenowania uników przed uderzeniami.
@@ -35,7 +35,7 @@ Aplikacja "Dukes Exercise" została napisana przez mnie przy pomocy Android Stud
 ![screen](img/dukes_excercise1.jpg)
 
 ---
-</br><br/>
+<br/><br/>
 ## Symulacja protokołu RIP (Routing Information Protocol) (C++)
 Projekt map-rip to symulacja pierwszej wersji protokołu routingu RIP (Routing Information Protocoll). Protokół RIP jest, a właściwie był, używany w sieciach komputerowych przez routery do odnalezienia najlepszej drogi to innych routerów.Każdy router w sieci jest identyfikowany przez adres IP. Jednak, żeby projekt był czytelniejszy, zastąpiłem adresy IP nazwami miast, ale oprócz tego protokół działa tak samo jak RIP 1.
 * [dokładny opis projektu](https://github.com/12jerek34jeremi/map_rip_protocol/blob/main/README.md)
@@ -45,7 +45,7 @@ Projekt map-rip to symulacja pierwszej wersji protokołu routingu RIP (Routing I
 ![screen](img/map_rip1.png)
 
 ---
-</br><br/>
+<br/><br/>
 ## Harry Potter Chapter Writter (Python, Pytorch, JupyterNotebook, NumPy)
 Próbowałem stworzyć i wytrenować sieć neuronową zdolną do napisania własnego rozdziału Harrego Pottera.
 * [dokładny opis projektu](https://github.com/12jerek34jeremi/harry_potter/blob/main/explanation.ipynb)
@@ -54,7 +54,7 @@ Próbowałem stworzyć i wytrenować sieć neuronową zdolną do napisania włas
 ![screen](img/harry_potter1.png)
 
 ---
-</br><br/>
+<br/><br/>
 ## Malwa Tea (PHP, javascript, SQL, HTML, CSS)
 Malwa Tea to projekt strony internetowej sklepu internetowego fikcyjnej firmy Malwa Tea. Zahostowałem tą stronę na Amazon AWS, możesz kliknąc w [ten link](https://drive.google.com/file/d/1TIuaRz3wrAIUWZIIjwZIPpy4jEbDsXGx/view?usp=share_link), aby zobaczyć jak strona wygląda.
 * [dokładny opis projektu](https://github.com/12jerek34jeremi/shop2/blob/main/README.md)
@@ -64,7 +64,7 @@ Malwa Tea to projekt strony internetowej sklepu internetowego fikcyjnej firmy Ma
 ![screen](img/malwa_tea2.png)
 
 ---
-</br><br/>
+<br/><br/>
 ## League Viewer (java, Swing, Maven, SQL)
 Aplikacja League Viewer była współtworzona przeze mnie w ramach projektu z Programownia Alikacyjnego na uczelni. Aplikacja umożliwia użytkownikom przeglądanie informacji związanych z piłką nożną w różnych ligach (meczy, druży, piłkarzy) oraz dodawanie nowych informacji.
 * [dokładny opis projektu](https://github.com/12jerek34jeremi/league_viewer/blob/main/README.md)
@@ -74,7 +74,7 @@ Aplikacja League Viewer była współtworzona przeze mnie w ramach projektu z Pr
 ![screen](img/league_viewer2.png)
 
 ---
-</br><br/>
+<br/><br/>
 ## Nerual Network (Python, NumPy)
 Projekt Neural Network to implementacja sztucznej sieci neuronowej (razem z implementacją trenowania, testowania, regularyzacji oraz zapisywania do pliku i wczytywania modelu z pliku).
 * [dokładny opis projektu](https://github.com/12jerek34jeremi/Neural-Network/blob/master/notebook.ipynb)
@@ -83,7 +83,7 @@ Projekt Neural Network to implementacja sztucznej sieci neuronowej (razem z impl
 ![screen](img/neural_network2.png)
 
 ---
-</br><br/>
+<br/><br/>
 ## Singly Linked List (C++)
 Pełna implementacja uogólnionej listy jednokierunkowej. Pozwala na swtorzenie listy o dowolnym typie klucz i dowolnej typie wartości.
 * [dokładny opis projektu](https://github.com/12jerek34jeremi/SLL/blob/main/README.md)
@@ -92,7 +92,7 @@ Pełna implementacja uogólnionej listy jednokierunkowej. Pozwala na swtorzenie 
 ![screen](img/sll1.png)
 
 ---
-</br><br/>
+<br/><br/>
 ## Ada Boost (Python, NumPy, Pandas)
 Projekt AdaBoost to moja implementacja algorytmu Uczenia Maszynowego "AdaBoost". Użyłem tej implementacji w tym [konkursie na Kaggle (link)](https://www.kaggle.com/competitions/knsi-golem-bootcamp2021-competition/leaderboard) w którym zdobyłem 6 miejsce. Nie używałem żandych dodatkowych bibliotek Uczenia Maszynowego (typu scikit-learn lub PyTorch), całość jest napisana przy pomocy NumPy i Pandas.
 * [repozytorium](https://github.com/12jerek34jeremi/AdaBoost)
@@ -100,7 +100,7 @@ Projekt AdaBoost to moja implementacja algorytmu Uczenia Maszynowego "AdaBoost".
 ![screen](img/adaboost2.png)
 
 ---
-</br><br/>
+<br/><br/>
 ## Generating Sequences of Rat Poses
 Brałem udział w wydarzeniu [BrainHack Warsaw 2022](https://brainhackwarsaw.github.io/), w którym to, razem z
 innymi członkami zespołu, badaliśmy przestrzeń ukrytą algorytmu
