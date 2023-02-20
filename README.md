@@ -28,7 +28,7 @@ Jestem studentem drugiego roku informatyki na Politechnice Warszawskiej na WEiTI
 
 ## Dukes Excercise (Kotlin, Android Studio)
 Aplikacja "Dukes Exercise" została napisana przez mnie przy pomocy Android Studio całkowicie w Kotlinie. Jest dostępna na [Play Store (link)](https://play.google.com/store/apps/details?id=zahenta.dukesexercise). Aplikacja służy do trenowania uników przed uderzeniami.
-* [dokładny opis projektu](https://github.com/12jerek34jeremi/DukesExcercise/blob/main/README.md)
+* [dokładny opis projektu](https://github.com/12jerek34jeremi/DukesExcercise/blob/main/README_PL.md)
 * [link do video](https://drive.google.com/file/d/14v1DTA3-rx1C68ehiJzEjY5w-fsN8ktP/view?usp=share_link) z opisem projektu
 * [repozytorium](https://github.com/12jerek34jeremi/DukesExcercise)
 
@@ -38,7 +38,7 @@ Aplikacja "Dukes Exercise" została napisana przez mnie przy pomocy Android Stud
 <br/><br/>
 ## Symulacja protokołu RIP (Routing Information Protocol) (C++)
 Projekt map-rip to symulacja pierwszej wersji protokołu routingu RIP (Routing Information Protocoll). Protokół RIP jest, a właściwie był, używany w sieciach komputerowych przez routery do odnalezienia najlepszej drogi to innych routerów.Każdy router w sieci jest identyfikowany przez adres IP. Jednak, żeby projekt był czytelniejszy, zastąpiłem adresy IP nazwami miast, ale oprócz tego protokół działa tak samo jak RIP 1.
-* [dokładny opis projektu](https://github.com/12jerek34jeremi/map_rip_protocol/blob/main/README.md)
+* [dokładny opis projektu](https://github.com/12jerek34jeremi/map_rip_protocol/blob/main/README_PL.md)
 * [link do video](https://drive.google.com/file/d/1v48XZgSmH-Su3g6PAoOSJAcw1wl3UKvi/view?usp=share_link) z opisem projektu
 * [repozytorium](https://github.com/12jerek34jeremi/map_rip_protocol)
 
@@ -57,7 +57,7 @@ Próbowałem stworzyć i wytrenować sieć neuronową zdolną do napisania włas
 <br/><br/>
 ## Malwa Tea (PHP, javascript, SQL, HTML, CSS)
 Malwa Tea to projekt strony internetowej sklepu internetowego fikcyjnej firmy Malwa Tea. Zahostowałem tą stronę na Amazon AWS, możesz kliknąc w [ten link](http://ec2-52-87-229-246.compute-1.amazonaws.com/), aby zobaczyć jak strona wygląda.
-* [dokładny opis projektu](https://github.com/12jerek34jeremi/shop2/blob/main/README.md)
+* [dokładny opis projektu](https://github.com/12jerek34jeremi/shop2/blob/main/README_PL.md)
 * [link do video](https://drive.google.com/file/d/1TIuaRz3wrAIUWZIIjwZIPpy4jEbDsXGx/view?usp=share_link) z opisem projektu
 * [repozytorium](https://github.com/12jerek34jeremi/shop2)
 
@@ -67,7 +67,7 @@ Malwa Tea to projekt strony internetowej sklepu internetowego fikcyjnej firmy Ma
 <br/><br/>
 ## League Viewer (java, Swing, Maven, SQL)
 Aplikacja League Viewer była współtworzona przeze mnie w ramach projektu z Programownia Alikacyjnego na uczelni. Aplikacja umożliwia użytkownikom przeglądanie informacji związanych z piłką nożną w różnych ligach (meczy, druży, piłkarzy) oraz dodawanie nowych informacji.
-* [dokładny opis projektu](https://github.com/12jerek34jeremi/league_viewer/blob/main/README.md)
+* [dokładny opis projektu](https://github.com/12jerek34jeremi/league_viewer/blob/main/README_PL.md)
 * [link do video](https://drive.google.com/file/d/1wyUm6_Vz_4pqdqQw1XxXmbbhKgX2G-dE/view?usp=share_link) z opisem projektu
 * [repozytorium](https://github.com/12jerek34jeremi/league_viewer)
 
