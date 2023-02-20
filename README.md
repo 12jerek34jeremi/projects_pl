@@ -6,7 +6,7 @@ Cześć, nazywam się Jędrzej Chmiel, a to jest lista części moich projektów
 * link do repozytorium
 * jeden screeen
 
-Jestem studentem drugiego roku informatyki na Politechnice Warszawskiej na WEiTI (Wydział Elektroniki i Technik Informacyjnych). Szukam praktyk/stażu/pracy na wakacje (2023 roku). Oto [link do mojego CV](https://drive.google.com/file/d/1WSfwEiToRkPZTQwJ-hS2UgAob4_LrOTU/view?usp=share_link), znajduje się w nim opis moich umiejętności i dane kontaktowe do mnie.
+Jestem studentem drugiego roku informatyki na Politechnice Warszawskiej na WEiTI (Wydział Elektroniki i Technik Informacyjnych). Szukam praktyk/stażu/pracy na wakacje (2023 roku). Oto [link do mojego CV](https://drive.google.com/file/d/1WSfwEiToRkPZTQwJ-hS2UgAob4_LrOTU/view?usp=share_link), znajduje się w nim opis moich umiejętności i dane kontaktowe do mnie. Jeżeli chcesz się ze mną skontatkować, to najlepiej ***napisz do mnie na [LinkedIn (link)](https://www.linkedin.com/in/j%C4%99drzej-chmiel-481a8423b/)***
 
 
 ## Projekty:
