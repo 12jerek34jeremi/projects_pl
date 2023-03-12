@@ -10,15 +10,15 @@ Jestem studentem drugiego roku informatyki na Politechnice Warszawskiej na WEiTI
 
 
 ## Projekty:
-1. [aplikacja na androida](#dukes-excercise-kotlin-android-studio) to trenowania uników przed uderzeniami
+1. próba stworzenia (i wytrenowania) [sieci neuronowej zdolnej do napisania nowego roździału Harrego Pottera](#harry-potter-chapter-writter-python-pytorch-jupyternotebook-numpy)
 2. [symulacja protokołu routingu RIP](#symulacja-protokołu-rip-routing-information-protocol-c) (Routing Information Protocol)
-3. próba stworzenia (i wytrenowania) [sieci neuronowej zdolnej do napisania nowego roździału Harrego Pottera](#harry-potter-chapter-writter-python-pytorch-jupyternotebook-numpy)
-5. [sklep internetowy](#malwa-tea-php-javascript-sql-html-css) fikcyjnej firmy "malwa_tea" (strona internetowa)
-6. [aplikacja desktopowa](#league-viewer-java-swing-maven-sql) do przeglądanie informacji, związanych z piłką nożną, w różnych ligach, oraz dodawanie nowych informacji
-7. [implementacja sztucznej sieci neuronowej](#nerual-network-python-numpy) (z trenowaniem, zapisywaniem, tylko przy użyciu NumPy) 
-7. pełna implementacja [uogólnionej listy jednokierunkowej](#singly-linked-list-c)
-8. implementacja algorytmy Uczenia Maszynowego ["AdaBoost"](#ada-boost-python-numpy-pandas)
-9. [Generating Sequences of Rat Poses](#generating-sequences-of-rat-poses)
+3. implementacja algorytmy Uczenia Maszynowego ["AdaBoost"](#ada-boost-python-numpy-pandas)
+4. [aplikacja na androida](#dukes-excercise-kotlin-android-studio) to trenowania uników przed uderzeniami
+5. [aplikacja desktopowa](#league-viewer-java-swing-maven-sql) do przeglądanie informacji, związanych z piłką nożną, w różnych ligach, oraz dodawanie nowych informacji
+6. [Generating Sequences of Rat Poses](#generating-sequences-of-rat-poses)
+7. [sklep internetowy](#malwa-tea-php-javascript-sql-html-css) fikcyjnej firmy "malwa_tea" (strona internetowa)
+8. [implementacja sztucznej sieci neuronowej](#nerual-network-python-numpy) (z trenowaniem, zapisywaniem, tylko przy użyciu NumPy) 
+9. pełna implementacja [uogólnionej listy jednokierunkowej](#singly-linked-list-c)
 
 <br/>
 
@@ -26,13 +26,12 @@ Jestem studentem drugiego roku informatyki na Politechnice Warszawskiej na WEiTI
 
 <br/>
 
-## Dukes Excercise (Kotlin, Android Studio)
-Aplikacja "Dukes Exercise" została napisana przez mnie przy pomocy Android Studio całkowicie w Kotlinie. Jest dostępna na [Play Store (link)](https://play.google.com/store/apps/details?id=zahenta.dukesexercise). Aplikacja służy do trenowania uników przed uderzeniami.
-* [dokładny opis projektu](https://github.com/12jerek34jeremi/DukesExcercise/blob/main/README_PL.md)
-* [link do video](https://drive.google.com/file/d/14v1DTA3-rx1C68ehiJzEjY5w-fsN8ktP/view?usp=share_link) z opisem projektu
-* [repozytorium](https://github.com/12jerek34jeremi/DukesExcercise)
+## Harry Potter Chapter Writter (Python, Pytorch, JupyterNotebook, NumPy)
+Próbowałem stworzyć i wytrenować sieć neuronową zdolną do napisania własnego rozdziału Harrego Pottera.
+* [dokładny opis projektu](https://github.com/12jerek34jeremi/harry_potter/blob/main/explanation.ipynb)
+* [repozytorium](https://github.com/12jerek34jeremi/harry_potter)
 
-![screen](img/dukes_excercise1.jpg)
+![screen](img/harry_potter1.png)
 
 ---
 <br/><br/>
@@ -46,22 +45,21 @@ Projekt map-rip to symulacja pierwszej wersji protokołu routingu RIP (Routing I
 
 ---
 <br/><br/>
-## Harry Potter Chapter Writter (Python, Pytorch, JupyterNotebook, NumPy)
-Próbowałem stworzyć i wytrenować sieć neuronową zdolną do napisania własnego rozdziału Harrego Pottera.
-* [dokładny opis projektu](https://github.com/12jerek34jeremi/harry_potter/blob/main/explanation.ipynb)
-* [repozytorium](https://github.com/12jerek34jeremi/harry_potter)
+## Ada Boost (Python, NumPy, Pandas)
+Projekt AdaBoost to moja implementacja algorytmu Uczenia Maszynowego "AdaBoost". Użyłem tej implementacji w tym [konkursie na Kaggle (link)](https://www.kaggle.com/competitions/knsi-golem-bootcamp2021-competition/leaderboard) w którym zdobyłem 6 miejsce. Nie używałem żandych dodatkowych bibliotek Uczenia Maszynowego (typu scikit-learn lub PyTorch), całość jest napisana przy pomocy NumPy i Pandas.
+* [repozytorium](https://github.com/12jerek34jeremi/AdaBoost)
 
-![screen](img/harry_potter1.png)
+![screen](img/adaboost2.png)
 
 ---
 <br/><br/>
-## Malwa Tea (PHP, javascript, SQL, HTML, CSS)
-Malwa Tea to projekt strony internetowej sklepu internetowego fikcyjnej firmy Malwa Tea. Zahostowałem tą stronę na Amazon AWS, możesz kliknąc w [ten link](http://ec2-52-87-229-246.compute-1.amazonaws.com/), aby zobaczyć jak strona wygląda.
-* [dokładny opis projektu](https://github.com/12jerek34jeremi/shop2/blob/main/README_PL.md)
-* [link do video](https://drive.google.com/file/d/1TIuaRz3wrAIUWZIIjwZIPpy4jEbDsXGx/view?usp=share_link) z opisem projektu
-* [repozytorium](https://github.com/12jerek34jeremi/shop2)
+## Dukes Excercise (Kotlin, Android Studio)
+Aplikacja "Dukes Exercise" została napisana przez mnie przy pomocy Android Studio całkowicie w Kotlinie. Jest dostępna na [Play Store (link)](https://play.google.com/store/apps/details?id=zahenta.dukesexercise). Aplikacja służy do trenowania uników przed uderzeniami.
+* [dokładny opis projektu](https://github.com/12jerek34jeremi/DukesExcercise/blob/main/README_PL.md)
+* [link do video](https://drive.google.com/file/d/14v1DTA3-rx1C68ehiJzEjY5w-fsN8ktP/view?usp=share_link) z opisem projektu
+* [repozytorium](https://github.com/12jerek34jeremi/DukesExcercise)
 
-![screen](img/malwa_tea2.png)
+![screen](img/dukes_excercise1.jpg)
 
 ---
 <br/><br/>
@@ -72,6 +70,26 @@ Aplikacja League Viewer była współtworzona przeze mnie w ramach projektu z Pr
 * [repozytorium](https://github.com/12jerek34jeremi/league_viewer)
 
 ![screen](img/league_viewer2.png)
+
+---
+<br/><br/>
+## Generating Sequences of Rat Poses
+Brałem udział w wydarzeniu [BrainHack Warsaw 2022](https://brainhackwarsaw.github.io/), w którym to, razem z
+innymi członkami zespołu, badaliśmy przestrzeń ukrytą algorytmu
+Normalizing Flow. Algorytm ten przy pomocy funkcji odwracalnych zamienia
+dany rozkład prawdopodobieństwa na rozkład normalny. Na koniec prezentowaliśmy nasz projekt. [link do prezentacji](https://docs.google.com/presentation/d/1G820T4yWyVaXoxoKl5m7DvrIJ4RtSjMvb2mgWAeKOYU/edit?usp=sharing)<br/>
+
+![screen](img/brainhack1.png)
+
+---
+<br/><br/>
+## Malwa Tea (PHP, javascript, SQL, HTML, CSS)
+Malwa Tea to projekt strony internetowej sklepu internetowego fikcyjnej firmy Malwa Tea. Zahostowałem tą stronę na Amazon AWS, możesz kliknąc w [ten link](http://ec2-52-87-229-246.compute-1.amazonaws.com/), aby zobaczyć jak strona wygląda.
+* [dokładny opis projektu](https://github.com/12jerek34jeremi/shop2/blob/main/README_PL.md)
+* [link do video](https://drive.google.com/file/d/1TIuaRz3wrAIUWZIIjwZIPpy4jEbDsXGx/view?usp=share_link) z opisem projektu
+* [repozytorium](https://github.com/12jerek34jeremi/shop2)
+
+![screen](img/malwa_tea2.png)
 
 ---
 <br/><br/>
@@ -91,21 +109,5 @@ Pełna implementacja uogólnionej listy jednokierunkowej. Pozwala na swtorzenie 
 
 ![screen](img/sll1.png)
 
----
-<br/><br/>
-## Ada Boost (Python, NumPy, Pandas)
-Projekt AdaBoost to moja implementacja algorytmu Uczenia Maszynowego "AdaBoost". Użyłem tej implementacji w tym [konkursie na Kaggle (link)](https://www.kaggle.com/competitions/knsi-golem-bootcamp2021-competition/leaderboard) w którym zdobyłem 6 miejsce. Nie używałem żandych dodatkowych bibliotek Uczenia Maszynowego (typu scikit-learn lub PyTorch), całość jest napisana przy pomocy NumPy i Pandas.
-* [repozytorium](https://github.com/12jerek34jeremi/AdaBoost)
-
-![screen](img/adaboost2.png)
-
----
-<br/><br/>
-## Generating Sequences of Rat Poses
-Brałem udział w wydarzeniu [BrainHack Warsaw 2022](https://brainhackwarsaw.github.io/), w którym to, razem z
-innymi członkami zespołu, badaliśmy przestrzeń ukrytą algorytmu
-Normalizing Flow. Algorytm ten przy pomocy funkcji odwracalnych zamienia
-dany rozkład prawdopodobieństwa na rozkład normalny. Na koniec prezentowaliśmy nasz projekt. [link do prezentacji](https://docs.google.com/presentation/d/1G820T4yWyVaXoxoKl5m7DvrIJ4RtSjMvb2mgWAeKOYU/edit?usp=sharing)<br/>
-![screen](img/brainhack1.png)
 
 
